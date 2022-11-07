@@ -46,3 +46,14 @@ ul {
    justify-content: center;
    gap: 30px;
 }
+.main {
+    height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main__title {
+    color: white;
+    font-size: 30px;
+}
